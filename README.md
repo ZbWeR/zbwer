@@ -32,5 +32,5 @@
 
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/ZbWeR/zbwer/bd97655644754346df1d72ecf87b512c1bd38e5a/github-contribution-grid-snake.svg">
+   <img src="https://github.com/ZbWeR/zbwer/blob/output/github-contribution-grid-snake.svg">
 </div>  
