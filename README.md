@@ -29,8 +29,13 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zbwer&layout=compact&theme=tokyonight" height="170px">
 <div>
     
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+</picture>
 
-
-<div align="center">
-   <img src="https://github.com/ZbWeR/zbwer/blob/output/github-contribution-grid-snake.svg">
-</div>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZbWeR/zbwer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZbWeR/zbwer/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZbWeR/zbwer/output/github-contribution-grid-snake.svg" />
+</picture>
