@@ -24,9 +24,9 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zbwer&theme=tokyonight&show_icons=true" height="170px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zbwer&layout=compact&theme=tokyonight" height="170px">
-<div>
+  <img src="https://raw.githubusercontent.com/zbwer/zbwer/output/stats.svg" height="170px">
+  <img src="https://raw.githubusercontent.com/zbwer/zbwer/output/top-langs.svg" height="170px">
+</div>
     
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
