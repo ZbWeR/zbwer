@@ -12,10 +12,10 @@
 
 <div align="center">
     <p>我来自位于成都的电子科技大学👨‍🎓</p>
-    <p>我正在鹅厂担任前端开发实习生 🐧</p>
+    <p>我正在鹅厂担任全栈开发工程师 🐧</p>
     <p>欢迎与我一起探讨前端方向的问题😎</p>
     <p>平日里,我喜欢踢足球⚽与轮滑🛹</p>
-    <p>我最喜欢的游戏是 OverWatch🚀 和 FarmTogether🦄</p>
+    <p>我最喜欢的游戏是 OverWatch🚀</p>
     <p>🌟 Have a Nice day! 🌟</p>
 </div>
 
